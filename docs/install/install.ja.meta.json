@@ -4,10 +4,10 @@
     "editDate": "",
     "summary": "CSSO installation manual",
     "thumbnail": "",
-    "author": "Vitaly Harisov",
+    "author": ["harisov-vitaly"],
     "tags": ["tools", "csso","css"],
-    "category": ["tools"],
-    "translator": "Koji Ishimoto",
+    "categories": ["tools"],
+    "translator": ["ishimoto-koji"],
     "url": "/docs/install/",
     "type": "docs",
     "slug": ""

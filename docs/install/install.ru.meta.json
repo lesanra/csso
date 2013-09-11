@@ -4,10 +4,10 @@
     "editDate": "",
     "summary": "Инструкция по установке CSSO",
     "thumbnail": "",
-    "author": "Виталий Харисов",
+    "author": ["harisov-vitaly"],
     "tags": ["tools", "csso","css"],
-    "category": ["tools"],
-    "translator": "",
+    "categories": ["tools"],
+    "translator": [""],
     "url": "/docs/install/",
     "type": "docs",
     "slug": ""

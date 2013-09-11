@@ -4,10 +4,10 @@
     "editDate": "",
     "summary": "Usage of CSSO",
     "thumbnail": "",
-    "author": "Vitaly Harisov",
+    "author": ["harisov-vitaly"],
     "tags": ["tools", "csso","css"],
-    "category": ["tools"],
-    "translator": "Koji Ishimoto",
+    "categories": ["tools"],
+    "translator": ["ishimoto-koji"],
     "url": "/docs/usage/",
     "type": "docs",
     "slug": ""
