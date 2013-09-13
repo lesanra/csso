@@ -4,11 +4,11 @@
     "editDate": "",
     "summary": "Usage of CSSO",
     "thumbnail": "",
-    "author": ["harisov-vitaly"],
+    "authors": ["harisov-vitaly"],
     "tags": ["tools", "csso","css"],
     "categories": ["tools"],
-    "translator": ["ishimoto-koji"],
+    "translators": ["ishimoto-koji"],
     "url": "/docs/usage/",
-    "type": "docs",
+    "type": "tools",
     "slug": ""
 } 

@@ -4,11 +4,11 @@
     "editDate": "28-10-2012",
     "summary": "Краткое введение в CSSO",
     "thumbnail": "",
-    "author": ["harisov-vitaly"],
+    "authors": ["harisov-vitaly"],
     "tags": ["tools", "csso","css"],
     "categories": ["tools"],
-    "translator": [""],
+    "translators": [""],
     "url": "/docs/index/",
-    "type": "docs",
+    "type": "tools",
     "slug": ""
 } 

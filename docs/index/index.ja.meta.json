@@ -4,11 +4,11 @@
     "editDate": "",
     "summary": "Short introduction to CSSO",
     "thumbnail": "",
-    "author": ["harisov-vitaly"],
+    "authors": ["harisov-vitaly"],
     "tags": ["tools", "csso","css"],
     "categories": ["tools"],
-    "translator": ["ishimoto-koji"],
+    "translators": ["ishimoto-koji"],
     "url": "/docs/index/",
-    "type": "docs",
+    "type": "tools",
     "slug": ""
 } 
