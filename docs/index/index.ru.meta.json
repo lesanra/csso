@@ -5,10 +5,11 @@
     "summary": "Краткое введение в CSSO",
     "thumbnail": "",
     "authors": ["harisov-vitaly"],
-    "tags": ["tools", "csso","css"],
-    "categories": [{"name": "Файловые оптимизаторы/СSSO", "url": "optimizers/csso"}],
+    "tags": ["tools", "css"],
+    "categories": [{"name": "Оптимизаторы/СSSO", "url": "optimizers/csso"}],
     "translators": [""],
     "url": "/docs/index/",
     "type": "tools",
-    "slug": ""
+    "slug": "",
+    "root" : "true"
 } 

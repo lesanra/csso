@@ -5,7 +5,7 @@
     "summary": "Подробное описание CSSO",
     "thumbnail": "",
     "authors": ["harisov-vitaly"],
-    "tags": ["tools", "csso","css"],
+    "tags": ["tools", "css"],
     "categories": [{"name": "Файловые оптимизаторы/СSSO", "url": "optimizers/csso"}],
     "translators": [""],
     "url": "/docs/description/",

@@ -5,9 +5,9 @@
     "summary": "CSSO installation manual",
     "thumbnail": "",
     "authors": ["harisov-vitaly"],
-    "tags": ["tools", "csso","css"],
+    "tags": ["tools", "css"],
     "categories": ["optimizers/csso"],
-    "translators": [""],
+    "translators": ["khachaturov-leonid"],
     "url": "/docs/install/",
     "type": "tools",
     "slug": ""

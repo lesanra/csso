@@ -5,9 +5,9 @@
     "summary": "Usage of CSSO",
     "thumbnail": "",
     "authors": ["harisov-vitaly"],
-    "tags": ["tools", "csso","css"],
+    "tags": ["tools", "css"],
     "categories": ["optimizers/csso"],
-    "translators": [""],
+    "translators": ["khachaturov-leonid"],
     "url": "/docs/usage/",
     "type": "tools",
     "slug": ""
