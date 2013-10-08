@@ -6,7 +6,7 @@
     "thumbnail": "",
     "authors": ["harisov-vitaly"],
     "tags": ["tools", "css"],
-    "categories": [{"name": "Файловые оптимизаторы/СSSO", "url": "optimizers/csso"}],
+    "categories": [{"name": "Оптимизаторы/СSSO", "url": "optimizers/csso"}],
     "translators": [""],
     "url": "/docs/usage/",
     "type": "tools",
