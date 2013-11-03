@@ -3,7 +3,7 @@
     "longTitle": "CSSO Description",
     "createDate": "30-11-2012",
     "editDate": "",
-    "summary": "Detailed description of CSSO",
+    "summary": "Detailed description of CSSO.",
     "thumbnail": "",
     "authors": ["harisov-vitaly"],
     "tags": ["tools", "css"],
@@ -11,5 +11,6 @@
     "translators": ["ishimoto-koji"],
     "url": "/docs/description/",
     "type": "tools",
-    "slug": ""
+    "slug": "",
+    "order": "10"
 } 

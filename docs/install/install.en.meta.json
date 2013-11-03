@@ -3,7 +3,7 @@
     "longTitle": "CSSO Installation",
     "createDate": "17-10-2012",
     "editDate": "",
-    "summary": "CSSO installation manual",
+    "summary": "CSSO installation manual.",
     "thumbnail": "",
     "authors": ["harisov-vitaly"],
     "tags": ["tools", "css"],
@@ -11,5 +11,6 @@
     "translators": ["khachaturov-leonid"],
     "url": "/docs/install/",
     "type": "tools",
-    "slug": ""
+    "slug": "",
+    "order": "20"
 } 
