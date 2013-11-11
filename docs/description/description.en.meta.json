@@ -7,7 +7,7 @@
     "thumbnail": "",
     "authors": ["harisov-vitaly"],
     "tags": ["tools", "css"],
-    "categories": ["optimizers/csso"],
+    "categories":[{"name": "Optimizers/CSSO", "url": "optimizers/csso", "order": "20/20"}],
     "translators": [""],
     "url": "/docs/description/",
     "type": "tools",
